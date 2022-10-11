@@ -7,3 +7,5 @@ Plot in R(https://r-coder.com/plot-r/)
 R Programming Exercises, Practice Questions and Solutions(https://www.geeksforgeeks.org/r-programming-exercises-practice-questions-and-solutions/amp/)
 
 (https://github.com/KunaalNaik/R_Basics)
+
+R Tutorial(https://www.tutorialspoint.com/r/index.htm)
