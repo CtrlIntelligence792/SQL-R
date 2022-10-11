@@ -9,3 +9,5 @@ R Programming Exercises, Practice Questions and Solutions(https://www.geeksforge
 (https://github.com/KunaalNaik/R_Basics)
 
 R Tutorial(https://www.tutorialspoint.com/r/index.htm)
+
+SQL Murder Mystery(https://mystery.knightlab.com/)
