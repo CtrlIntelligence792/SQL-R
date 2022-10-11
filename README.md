@@ -23,3 +23,5 @@ What I Learned After Working on 1000+ SQL Coding Problems(https://medium.com/@h.
 
 Database — Modeling : Entity Relationship Diagram (ERD) (Part 5)
 A common approach to sketch the entities and their relationships.(https://medium.com/omarelgabrys-blog/database-modeling-entity-relationship-diagram-part-5-352c5a8859e5)
+
+8 Week SQL Challenge(https://8weeksqlchallenge.com/)
