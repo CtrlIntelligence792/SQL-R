@@ -16,4 +16,7 @@ SQL Murder Mystery(https://mystery.knightlab.com/)
 
 What I Learned After Working on 1000+ SQL Coding Problems(https://medium.com/@h.hulu/what-i-learned-after-working-on-1000-sql-coding-problems-1-d17e9bc9ed93)
 
+
 “Top 40” New CRAN Packages(https://www.r-bloggers.com/2022/07/june-2022-top-40-new-cran-packages/)
+
+(https://www.databasedev.co.uk/data_models.html)
