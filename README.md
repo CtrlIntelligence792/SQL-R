@@ -20,3 +20,6 @@ What I Learned After Working on 1000+ SQL Coding Problems(https://medium.com/@h.
 “Top 40” New CRAN Packages(https://www.r-bloggers.com/2022/07/june-2022-top-40-new-cran-packages/)
 
 (https://www.databasedev.co.uk/data_models.html)
+
+Database — Modeling : Entity Relationship Diagram (ERD) (Part 5)
+A common approach to sketch the entities and their relationships.(https://medium.com/omarelgabrys-blog/database-modeling-entity-relationship-diagram-part-5-352c5a8859e5)
